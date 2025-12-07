@@ -1,16 +1,5 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* Third-Prize The Chinses Mathematics Competitions for College Student (Heilongjiang, China), 2025.
+* Outstanding Student of the School of Physics (HIT),2025.
+* Second-Prize Freshman Year Project (HIT), 2025.
+* Second-Prize China Undergraduate Physics Tournament (HIT), 2025.
+* First-Prize National Structure Design Contest for College Student (HIT), 2025.
