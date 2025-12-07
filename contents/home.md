@@ -6,7 +6,8 @@ He is currently studying applied physics at Harbin Institute of Technology.
 
 #### Contact
 
-Email: 1943693727@qq.com\
+Email: 1943693727@qq.com
+
 Phone Number: +86 13884376399
 
 #### Education
