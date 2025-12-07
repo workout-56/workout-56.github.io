@@ -2,7 +2,7 @@ He is currently studying applied physics at Harbin Institute of Technology.
 
 #### Github
 
-[![workout-56]](https://github.com/workout-56)
+[Github](https://github.com/workout-56)
 
 #### Contact
 
