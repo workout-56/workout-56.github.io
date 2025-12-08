@@ -1,8 +1,8 @@
-He is currently studying applied physics at Harbin Institute of Technology.
+I'm currently studying applied physics at Harbin Institute of Technology.
 
 #### Github
 
-[Github](https://github.com/workout-56)
+[Click here](https://github.com/workout-56)
 
 #### Contact
 
