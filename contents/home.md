@@ -6,8 +6,7 @@ I'm currently studying applied physics at Harbin Institute of Technology.
 
 #### Contact
 
-Email: 1943693727@qq.com\
-Phone Number: +86 13884376399
+Email: w1943693727@gmail.com
 
 #### Education
 B.E., Applied Physics, Harbin Institute of Technology, (2024—Present).
